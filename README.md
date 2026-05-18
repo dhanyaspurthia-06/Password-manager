@@ -91,3 +91,27 @@ File remains encrypted and usable only with the correct master password
 13. Encrypted Vault Import
 Users can import a .vault file and decrypt it using their master password to restore saved credentials
 
+
+
+
+Password Manager - Setup & Run Instructions This guide will help you set up and run the project locally.
+
+🚀 Getting Started
+
+Clone the Repository git clone https://github.com/your-username/Password-Manager1.git cd Password-Manager1 Or download the ZIP and extract it manually.
+
+Install Node.js Make sure you have Node.js and npm installed.
+
+Check installation: node -v npm -v Download from: https://nodejs.org if not installed.
+
+Install Dependencies npm install This installs all packages listed in package.json.
+
+Run the Development Server npm run dev This starts the Vite development server.
+
+Open in Browser: Open your browser and visit: http://localhost:5173/ 
+
+🛠 Tech Stack 
+⚙️ Vite 
+🎨 TailwindCSS 
+📜 TypeScript 
+🌐 HTML, JavaScript
