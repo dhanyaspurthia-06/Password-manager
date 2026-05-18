@@ -69,6 +69,7 @@ Passwords copied to the clipboard are automatically cleared after a short time (
 
 
 🔐 Advanced Security Features
+
 8. Auto-lock on Page Refresh
 Reloading or navigating away from the page automatically locks the vault
 Clears session data for protection
