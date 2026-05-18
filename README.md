@@ -94,7 +94,8 @@ Users can import a .vault file and decrypt it using their master password to res
 
 
 
-Password Manager - Setup & Run Instructions This guide will help you set up and run the project locally.
+Password Manager - Setup & Run Instructions 
+This guide will help you set up and run the project locally.
 
 🚀 Getting Started
 
